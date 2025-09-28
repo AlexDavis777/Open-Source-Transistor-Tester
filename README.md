@@ -9,3 +9,5 @@ The main pcb and the top covers are fixed togther using m3 brass hex spacers 14m
 <p align="center">
     <img src="img/main-PCB.png" alt="Icon" />
 
+    There is a slide switch on the side to isolate the 30v zener circuit to save battery when not in use.
+
