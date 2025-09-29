@@ -9,5 +9,9 @@ https://github.com/madires/Transistortester-Warehouse/tree/master
 <p align="center">
     <img src="img/main-PCB.png" alt="Icon" />
 
+ # waiting for top covers.   
+<p align="center">
+    <img src="img/case1.png" alt="Icon" />
+
 # There is a slide switch on the side to isolate the 30v zener circuit to save battery when not in use.
 
