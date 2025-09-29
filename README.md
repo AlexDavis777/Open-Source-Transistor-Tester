@@ -9,7 +9,8 @@ https://github.com/madires/Transistortester-Warehouse/tree/master
 <p align="center">
     <img src="img/main-PCB.png" alt="Icon" />
 
- # waiting for top covers.   
+ # waiting for top covers. 
+ a functional tester can be built without the 3d printed parts if needed.
 <p align="center">
     <img src="img/case1.jpg" alt="Icon" />
 
