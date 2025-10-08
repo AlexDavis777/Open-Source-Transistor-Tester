@@ -2,6 +2,7 @@
 sudo avrdude -c usbasp -P usb -p m644p -B 20 \ -V -U flash:w:./ComponentTester.hex:a -U eeprom:w:./ComponentTester.eep:a
 
 No, the hex doesn't include fuse settings. But you could use avrdude to set the fuses if required (actually just for a brand new ATmega).
+
 sudo avrdude -c usbasp -P usb -p m644p -B 20 \ -V -U flash:w:./ComponentTester.hex:a -U eeprom:w:./ComponentTester.eep:a -U lfuse:w:0xF7:m -U hfuse:w:0xD9:m -U efuse:w:0xfc:m
 
 If the ATmega already runs a tester firmware you don't need to re-write the fuses.
