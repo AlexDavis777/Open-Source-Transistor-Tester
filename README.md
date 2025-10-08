@@ -14,7 +14,7 @@ https://github.com/madires/Transistortester-Warehouse/tree/master
     <img src="img/case1.jpg" alt="Icon" />
 
 <p align="center">
-    <img src="img/case1.jpg" alt="Icon" />
+    <img src="img/case2.jpg" alt="Icon" />
 
 # There is space for a slide switch on the side to isolate the 30v zener circuit to save battery when not in use.
 
