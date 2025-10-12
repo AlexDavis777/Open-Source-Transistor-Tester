@@ -9,12 +9,13 @@ https://github.com/madires/Transistortester-Warehouse/tree/master
 <p align="center">
     <img src="img/main-PCB.png" alt="Icon" />
 
- a functional tester can be built without the 3d printed parts if needed.
 <p align="center">
     <img src="img/case3.jpg" alt="Icon" />
  
 <p align="center">
     <img src="img/case1.jpg" alt="Icon" />
+    
+a functional tester can be built without the 3d printed parts if needed.
 
 <p align="center">
     <img src="img/case2.jpg" alt="Icon" />
