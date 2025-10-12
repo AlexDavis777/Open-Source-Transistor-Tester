@@ -19,5 +19,5 @@ https://github.com/madires/Transistortester-Warehouse/tree/master
 <p align="center">
     <img src="img/case2.jpg" alt="Icon" />
 
-There is space for a slide switch on the side to isolate the 30v zener circuit to save battery when not in use.
+There is space on the pcb for a slide switch on the side to isolate the 30v zener circuit to save battery when not in use.
 
