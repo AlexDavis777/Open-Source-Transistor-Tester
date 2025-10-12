@@ -5,7 +5,9 @@ https://github.com/madires/Transistortester-Warehouse/tree/master
 
 <p align="center">
     <img src="img/tester_tops_PCB.png" alt="Icon" />
-
+    
+The six probe resistors (470k and 680 ohms) should be accurate values max 2 ohms variation (from 680ohm) and max 2k variation (from 470k)
+test these resistors before soldering to the device or use 0.1 % precision resistors.
 <p align="center">
     <img src="img/main-PCB.png" alt="Icon" />
 
