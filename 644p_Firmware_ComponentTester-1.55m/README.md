@@ -47,6 +47,7 @@ LCD module:
 #define LCD_DC           PB3            /* port pin used for D/C */
 
 #define LCD_SCK          PB7            /* port pin used for SCK */
+
 #define LCD_SDI          PB5            /* port pin used for SDI (data input) */
 
 //#define LCD_SDO          PB6            /* port pin used for SDO (data output) */
