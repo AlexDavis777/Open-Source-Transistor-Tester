@@ -8,7 +8,7 @@ sudo avrdude -c usbasp -P usb -p m644p -B 20 \ -V -U flash:w:./ComponentTester.h
 If the ATmega already runs a tester firmware you don't need to re-write the fuses.
 
 <p align="center">
-    <img src="/Open-Source-Transistor-Tester/blob/main/img/disp0.jpg" alt="Icon" />
+    <img src="https://github.com/AlexDavis777/Open-Source-Transistor-Tester/blob/main/img/disp0.jpg" alt="Icon" />
 
 <p align="center">
     <img src="img/disp1.jpg" alt="Icon" />
