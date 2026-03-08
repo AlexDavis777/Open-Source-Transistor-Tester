@@ -26,6 +26,7 @@ LCD module:
 
 //#if 0
 #define LCD_ILI9341                     /* display controller ILI9341/ILI9342 */
+
 #define LCD_GRAPHIC                     /* graphic display */
 #define LCD_COLOR                       /* color display */
 #define LCD_SPI                         /* SPI interface */
