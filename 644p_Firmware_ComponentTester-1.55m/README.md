@@ -11,13 +11,13 @@ If the ATmega already runs a tester firmware you don't need to re-write the fuse
     <img src="https://github.com/AlexDavis777/Open-Source-Transistor-Tester/blob/main/img/disp0.jpg" alt="Icon" />
 
 <p align="center">
-    <img src="img/disp1.jpg" alt="Icon" />
+    <img src="https://github.com/AlexDavis777/Open-Source-Transistor-Tester/blob/main/img/disp1.jpg" alt="Icon" />
  
 <p align="center">
-    <img src="img/disp2.jpg" alt="Icon" />
+    <img src="https://github.com/AlexDavis777/Open-Source-Transistor-Tester/blob/main/img/disp2.jpg" alt="Icon" />
 
 <p align="center">
-    <img src="img/disp3.jpg" alt="Icon" />
+    <img src="https://github.com/AlexDavis777/Open-Source-Transistor-Tester/blob/main/img/disp3.jpg" alt="Icon" />
 
 LCD module:
  *  ILI9341
