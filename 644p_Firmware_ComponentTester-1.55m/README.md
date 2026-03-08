@@ -7,7 +7,17 @@ sudo avrdude -c usbasp -P usb -p m644p -B 20 \ -V -U flash:w:./ComponentTester.h
 
 If the ATmega already runs a tester firmware you don't need to re-write the fuses.
 
+<p align="center">
+    <img src="img/disp0.jpg" alt="Icon" />
 
+<p align="center">
+    <img src="img/disp1.jpg" alt="Icon" />
+ 
+<p align="center">
+    <img src="img/disp2.jpg" alt="Icon" />
+
+<p align="center">
+    <img src="img/disp3.jpg" alt="Icon" />
 
 LCD module:
  *  ILI9341
