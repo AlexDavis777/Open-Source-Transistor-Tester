@@ -28,9 +28,13 @@ LCD module:
 #define LCD_ILI9341                     /* display controller ILI9341/ILI9342 */
 
 #define LCD_GRAPHIC                     /* graphic display */
+
 #define LCD_COLOR                       /* color display */
+
 #define LCD_SPI                         /* SPI interface */
+
 /* control and data lines */
+
 #define LCD_PORT         PORTB          /* port data register */
 #define LCD_DDR          DDRB           /* port data direction register */
 #define LCD_RES          PB2            /* port pin used for /RES (optional) */
