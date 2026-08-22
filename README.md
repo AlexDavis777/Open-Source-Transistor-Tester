@@ -1,7 +1,7 @@
 # Open-Source-Transistor-Tester
 # Hardware based on the design at  Transistortester-Warehouse
 https://github.com/madires/Transistortester-Warehouse/tree/master
-# The main pcb and the top covers are fixed together using 8x m3 brass hex spacers 14mm high
+# The main pcb and the top covers are fixed together using 8x m3 brass hex spacers 14mm high and 2x 30mm m3 brass hex spacers
 
 <p align="center">
     <img src="img/tester_tops_PCB.png" alt="Icon" />
